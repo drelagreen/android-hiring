@@ -9,7 +9,7 @@ private const val TAG = "SocketManager"
 
 class SocketManager(
     private val address: String,
-    private val port: Int
+    private val port: Int,
 ) {
     private var socket: Socket? = null
 
@@ -20,7 +20,7 @@ class SocketManager(
     }
 
     fun send(request: TestRequest) {
-        val message = "{ request }" // <- request
+        val message = "{ $request }" // <- request
 
         Log.i(TAG, "sending: $message")
 

@@ -24,5 +24,15 @@ class MainActivity : AppCompatActivity() {
         binding.button1.setOnClickListener {
             binding.button1.text = "Clicked"
         }
+
+        binding.femaleButton.setOnClickListener {
+            binding.femaleButton.isSelected = true
+            binding.maleButton.isSelected = false
+        }
+
+        binding.maleButton.setOnClickListener {
+            binding.maleButton.isSelected = true
+            binding.femaleButton.isSelected = false
+        }
     }
 }

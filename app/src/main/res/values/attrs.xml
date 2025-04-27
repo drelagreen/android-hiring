@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="GenderSelectorButton">
+        <attr name="defaultElevation" format="dimension" />
+        <attr name="selectedElevation" format="dimension" />
+        <attr name="pressedElevation" format="dimension" />
+        <attr name="genderType" format="enum" >
+            <enum name="male" value="0"/>
+            <enum name="female" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

@@ -5,4 +5,12 @@
     <color name="background_green">#7BA151</color>
     <color name="primary_green">#9BCC34</color>
     <color name="secondary_gray">#B2B2B3</color>
+
+    <color name="pink">#FF7BAC</color>
+    <color name="light_pink">#FBE3EC</color>
+    <color name="pink_ripple">#66FBE3EC</color>
+
+    <color name="blue">#3DB2FE</color>
+    <color name="light_blue">#DEF3FE</color>
+    <color name="blue_ripple">#66DEF3FE</color>
 </resources>

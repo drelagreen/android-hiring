@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gender_button_corner_radius">10dp</dimen>
+    <dimen name="gender_button_stroke_width">2dp</dimen>
+    <dimen name="gender_button_elevation_default">4dp</dimen>
+    <dimen name="gender_button_elevation_selected">0dp</dimen>
+    <dimen name="gender_button_elevation_pressed">0dp</dimen>
+    <dimen name="gender_button_padding">9dp</dimen>
+</resources>
