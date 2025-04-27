@@ -1,5 +1,7 @@
 package com.example.myapplication.network
 
+import com.google.gson.annotations.SerializedName
+
 data class TestResponse(
-    val allowed: Boolean
+    @SerializedName("allowed") val allowed: Boolean
 )

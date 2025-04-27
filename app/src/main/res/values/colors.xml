@@ -8,9 +8,14 @@
 
     <color name="pink">#FF7BAC</color>
     <color name="light_pink">#FBE3EC</color>
-    <color name="pink_ripple">#66FBE3EC</color>
+    <color name="ripple_pink">#66FBE3EC</color>
 
     <color name="blue">#3DB2FE</color>
     <color name="light_blue">#DEF3FE</color>
-    <color name="blue_ripple">#66DEF3FE</color>
+    <color name="ripple_blue">#66DEF3FE</color>
+
+    <color name="surface_gray">#F2F2F2</color>
+    <color name="icon_gray">#C1C1C1</color>
+
+    <color name="transparent">#00000000</color>
 </resources>

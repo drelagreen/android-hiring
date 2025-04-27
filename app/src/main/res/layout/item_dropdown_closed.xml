@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tvDropdownClosed"
+    style="@style/AgeDropdown.Item.Selected"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_spinner_item"
+    app:drawableEndCompat="@drawable/ic_dropdown_arrow"
+    app:drawableTint="@color/icon_gray"
+    tools:text="24"
+    />

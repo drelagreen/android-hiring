@@ -58,6 +58,7 @@ class GenderSelectorButton @JvmOverloads constructor(
             }
         }
 
+        isFocusable = true
         isClickable = true
         ViewCompat.setElevation(this, 0f)
         translationZ = defaultElevation

@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="send">Отправить</string>>
+    <string name="welcome_dialog_continue">Продолжить</string>
+    <string name="welcome_dialog_waiting">Проверка…</string>
+    <string name="welcome_dialog_title">Привет, Username!</string>
+    <string name="welcome_dialog_instruction">Расскажи о себе.\nЭто необходимо, чтобы подбирать партнёров за столом</string>
+    <string name="welcome_dialog_sex">Пол:</string>
+    <string name="welcome_dialog_age">Возраст:</string>
+    <string name="welcome_dialog_success">✅ Доступ разрешён</string>
+    <string name="welcome_dialog_failure">⛔️ Доступ запрещён</string>
+    <string name="error">Ошибка: %s</string>
+    >
 </resources>

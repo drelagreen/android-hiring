@@ -6,4 +6,7 @@
     <dimen name="gender_button_elevation_selected">0dp</dimen>
     <dimen name="gender_button_elevation_pressed">0dp</dimen>
     <dimen name="gender_button_padding">9dp</dimen>
+
+    <dimen name="spinner_popup_elevation">7dp</dimen>
+    <dimen name="spinner_corners_radius">15dp</dimen>
 </resources>
