@@ -11,12 +11,13 @@
 /.idea/deploymentTargetSelector.xml
 /.idea/migrations.xml
 /.idea/vcs.xml
-/.idea/codeStyles/
 /.idea/kotlinc.xml
 /.idea/gradle.xml
 /.idea/compiler.xml
 /.idea/misc.xml
 /.idea/other.xml
+/.idea/AndroidProjectSystem.xml
+/.idea/runConfigurations.xml
 
 .kotlin
 
